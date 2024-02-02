@@ -9,6 +9,6 @@ This workshop explores the basics of the R programming language from a Python us
 
 **This repository contains the following materials:**
   1. from-python-to-r-slides.pdf: &ensp; slide deck containing information on R, also used to guide the workshop flow
-  2. from-python-to-r-book.zip: &ensp; HTML book of various dataset materials used throughout the workshop
+  2. from-python-to-r-book.zip: &ensp; HTML book
   3. from-python-to-r-basics.ipynb: &ensp; notebook for the first live coding portion of the workshop
   4. from-python-to-r-dataset.ipynb: &ensp; notebook for the second live coding portion of the workshop
